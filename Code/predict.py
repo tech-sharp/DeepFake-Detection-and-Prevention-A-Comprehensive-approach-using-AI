@@ -26,4 +26,4 @@ def predict_image(image_path):
 # Example usage
 image_path = "real_and_fake_face_detection/real_and_fake_face/training_real/real_00001.jpg"
 result = predict_image(image_path)
-print(f"The image is {result}")
+print(f"The image is {result}")
