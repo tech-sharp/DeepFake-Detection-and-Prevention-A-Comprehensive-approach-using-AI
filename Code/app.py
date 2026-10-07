@@ -77,4 +77,4 @@ For more information and queries, please contact us at [contact@example.com](mai
 
 **Follow us on:**
 [Twitter](https://twitter.com) | [LinkedIn](https://linkedin.com) | [Facebook](https://facebook.com)
-""")
+""")
