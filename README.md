@@ -43,4 +43,4 @@ The model will identify the selected image for detection as fake and present the
 Pycharm
 
 ## Thanks for Watching
-Thank you for checking out my Deepfake Detection and Prevention project! If you found this project useful or interesting, please consider giving it a star🌟 on GitHub. Your support is greatly appreciated!
+Thank you for checking out my Deepfake Detection and Prevention project! If you found this project useful or interesting, please consider giving it a star🌟 on GitHub. Your support is greatly appreciated!
